@@ -1,110 +1,82 @@
-# 🔷 MikroTik Ops - Complete Network Management Suite
+\# MikroTik Ops v2.0
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Ali-Raziei/MikroTikOps/releases)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)]()
-[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://paypal.me/yourusername)
 
-> **Free, open-source desktop tool for managing multiple MikroTik routers simultaneously. No license fees, no device limits.**
 
-![Screenshot](screenshots/main.png)
+Complete Network Management Suite for MikroTik Routers
 
----
 
-## ✨ Features
+
+\## What's New in v2.0
+
+
+
+\- Help System: Complete user guide
+
+\- Global Search: Search across ALL sheets in Excel
+
+\- Multi-Value Filters
+
+\- Credential Profiles shared between tabs
+
+\- Keyboard Shortcuts (Ctrl+C, Ctrl+V, Ctrl+A, Shift+Arrows, Enter)
+
+\- Right-Click Menu in search box
+
+\- Donation Page with crypto
+
+\- Firmware Update: Smart ordering for v6->v7 upgrades
+
+\- Summary CSV for IOS tab
+
+
+
+\## Features
+
+
 
 | Tab | Description |
+
 |-----|-------------|
-| **🖥️ SSH** | Run commands on hundreds of routers at once |
-| **🪟 WinBox** | Excel-based router list with credential management |
-| **💾 Backup** | Automated .backup and .rsc exports with scheduling |
-| **📦 RouterOS** | Upload and install .npk firmware files |
 
----
+| SSH | Run commands on unlimited routers |
 
-## 📥 Download
+| WinBox | Excel-based launcher with credential profiles |
 
-### Windows Portable (No Installation)
+| Backup | Automated .backup and .rsc exports |
 
-| Version | Download | Size |
-|---------|----------|------|
-| **Latest** | [⬇️ Download MikroTikOps.exe](https://github.com/Ali-Raziei/MikroTikOps/releases/latest) | ~50 MB |
-
-> Just download and run. No installation required.
-
-### From Source
-
-```bash
-git clone https://github.com/Ali-Raziei/MikroTikOps.git
-
-
-cd MikroTikOps
-pip install -r requirements.txt
-python MikrotikOps.py
-
-
-🚀 Quick Start
-1️⃣ SSH Tab - Run Commands
-
-    Select Excel file with router IPs
-
-    Load commands from .txt or .rsc file
-
-    Choose credential profile
-
-    Click Run
-
-2️⃣ WinBox Tab - Launch Routers
-
-    Open Excel file
-
-    Manage credentials (Add/Edit/Delete)
-
-    Double-click any row to launch WinBox
-
-3️⃣ Backup Tab - Automated Backups
-
-    Select Excel file with router IPs
-
-    Choose backup type (System/Config/Both)
-
-    Set daily schedule (optional)
-
-    Click Run backup now
-
-4️⃣ IOS Tab - Firmware Update
-
-    Select .npk firmware file
-
-    Select Excel file with router IPs
-
-    Enter SSH credentials
-
-    Click Update Firmware
-
-📋 Requirements
-
-    Windows 10 / 11 (Windows 7 with Python)
-
-    No administrator rights needed
-
-    100 MB free disk space
+| IOS | Upload firmware, install packages, import config |
 
 
 
-☕ Donation
-If this tool saves you time and helps your business, please consider supporting its development.
-Crypto Donations
-Currency	Address
-Bitcoin (BTC)	  :   bc1q7n8ah87kzmgaa94squjswk03nc8at79y0um5e2
-Ethereum (ETH)	:   0xd1b9df54e2db7123857e9eed9a3486a4e93c66d8
-USDT BEP20(BSC) :   0x863c2dffa2f01abc563dc54f186c3d05546e2b21
+\## Download
 
 
-📜 License
-MIT License - Free for personal and commercial use
 
-⭐ Star History
-https://api.star-history.com/svg?repos=Ali-Raziei/MikroTikOps&type=Date
+\[Download MikroTikOps.exe](https://github.com/Ali-Raziei/MikroTikOps/releases/latest)
 
-Made with ❤️ for the MikroTik community
+
+
+\## Requirements
+
+
+
+\- Windows 10/11
+
+\- No admin rights needed
+
+
+
+\## Donation
+
+
+
+Support development: BTC, ETH, TRC20, USDT
+
+
+
+\---
+
+
+
+\*\*Made with ❤️ for the MikroTik community\*\*
+
