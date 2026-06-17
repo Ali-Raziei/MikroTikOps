@@ -48,7 +48,7 @@ A Windows desktop application that combines the most needed daily tasks into one
 
 | Backup Tab | IOS Tab |
 |------------|---------|
-| ![Backup](screenshots/backup_tab.png) | ![IOS](screenshots/ios_tab.png) |
+| ![Backup](screenshots/backup_tab.png) | ![OS](screenshots/os_tab.png) |
 
 ## ❓ Requirements
 
