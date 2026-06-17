@@ -42,10 +42,13 @@ A Windows desktop application that combines the most needed daily tasks into one
 
 ## 📸 Screenshots
 
-[Screenshot 1 - SSH Tab]
-[Screenshot 2 - WinBox Tab]
-[Screenshot 3 - Backup Tab]
-[Screenshot 4 - IOS Tab]
+| SSH Tab | WinBox Tab |
+|---------|------------|
+| ![SSH](screenshots/ssh_tab.png) | ![WinBox](screenshots/winbox_tab.png) |
+
+| Backup Tab | IOS Tab |
+|------------|---------|
+| ![Backup](screenshots/backup_tab.png) | ![IOS](screenshots/ios_tab.png) |
 
 ## ❓ Requirements
 
