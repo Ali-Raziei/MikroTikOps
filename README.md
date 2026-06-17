@@ -55,6 +55,13 @@ A Windows desktop application that combines the most needed daily tasks into one
 - Windows 10/11 (Windows 7 with Python)
 - No admin rights needed
 
+☕ Donation
+If this tool saves you time and helps your business, please consider supporting its development.
+Crypto Donations
+Currency	Address
+Bitcoin (BTC)	  :   bc1q7n8ah87kzmgaa94squjswk03nc8at79y0um5e2
+Ethereum (ETH)	:   0xd1b9df54e2db7123857e9eed9a3486a4e93c66d8
+USDT BEP20(BSC) :   0x863c2dffa2f01abc563dc54f186c3d05546e2b21
 ## 🤝 Feedback
 
 I'd love to hear your thoughts, feature requests, or bug reports!
