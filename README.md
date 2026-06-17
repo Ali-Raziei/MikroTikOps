@@ -1,82 +1,61 @@
-\# MikroTik Ops v2.0
+[Tool] MikroTik Ops v2.0 - Free Desktop Manager for Multiple Routers
 
+Hi everyone,
 
+I want to share a free tool I've been developing for managing multiple MikroTik routers simultaneously.
 
-Complete Network Management Suite for MikroTik Routers
+## 🔧 What is MikroTik Ops?
 
+A Windows desktop application that combines the most needed daily tasks into one clean interface.
 
+## 🆕 What's New in v2.0
 
-\## What's New in v2.0
+✅ **Complete Help System** - Click "?" button for full user guide
+✅ **Global Search** - Search across ALL sheets in Excel file
+✅ **Multi-Value Filters** - Select multiple values from a list
+✅ **Credential Profiles** - Shared between SSH, WinBox, and Backup tabs
+✅ **Keyboard Shortcuts** - Ctrl+C, Ctrl+V, Ctrl+A, Shift+Arrows, Enter, Shift+Enter
+✅ **Right-Click Menu** - Copy, Paste, Cut, Delete in search box
+✅ **Donation Page** - Support development with crypto (BTC, ETH, TRC20, USDT)
+✅ **Smart Firmware Update** - Optimized ordering for v6→v7 upgrades
+✅ **Summary CSV** - Detailed status for each router in IOS tab
 
+## ⚡ Features
 
+✅ **SSH Automation** - Run commands on unlimited routers at once
+✅ **WinBox Launcher** - Browse routers from Excel, save credential profiles  
+✅ **Backup Manager** - Automated .backup and .rsc exports with scheduling
+✅ **Firmware Updater** - Upload .npk files, install packages, import config scripts
 
-\- Help System: Complete user guide
+## 💯 Why it's different
 
-\- Global Search: Search across ALL sheets in Excel
+- No license - Use on unlimited devices
+- No internet required - Works offline
+- Portable - Single .exe file
+- Free forever (donation supported)
 
-\- Multi-Value Filters
+## 📥 Download
 
-\- Credential Profiles shared between tabs
+**GitHub:** https://github.com/Ali-Raziei/MikroTikOps
 
-\- Keyboard Shortcuts (Ctrl+C, Ctrl+V, Ctrl+A, Shift+Arrows, Enter)
+**Direct Download:** https://github.com/Ali-Raziei/MikroTikOps/releases/latest
 
-\- Right-Click Menu in search box
+## 📸 Screenshots
 
-\- Donation Page with crypto
+[Screenshot 1 - SSH Tab]
+[Screenshot 2 - WinBox Tab]
+[Screenshot 3 - Backup Tab]
+[Screenshot 4 - IOS Tab]
 
-\- Firmware Update: Smart ordering for v6->v7 upgrades
+## ❓ Requirements
 
-\- Summary CSV for IOS tab
+- Windows 10/11 (Windows 7 with Python)
+- No admin rights needed
 
+## 🤝 Feedback
 
+I'd love to hear your thoughts, feature requests, or bug reports!
 
-\## Features
+---
 
-
-
-| Tab | Description |
-
-|-----|-------------|
-
-| SSH | Run commands on unlimited routers |
-
-| WinBox | Excel-based launcher with credential profiles |
-
-| Backup | Automated .backup and .rsc exports |
-
-| IOS | Upload firmware, install packages, import config |
-
-
-
-\## Download
-
-
-
-\[Download MikroTikOps.exe](https://github.com/Ali-Raziei/MikroTikOps/releases/latest)
-
-
-
-\## Requirements
-
-
-
-\- Windows 10/11
-
-\- No admin rights needed
-
-
-
-\## Donation
-
-
-
-Support development: BTC, ETH, TRC20, USDT
-
-
-
-\---
-
-
-
-\*\*Made with ❤️ for the MikroTik community\*\*
-
+#MikroTik #NetAdmin #FreeTool #RouterOS
